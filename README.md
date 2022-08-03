@@ -108,6 +108,7 @@ Texto común
     - Segundo sub-item
 - Segundo item 
 
+~~~
     - Lista desordenada
       - Sub-item
         - Segundo sub-item
@@ -117,24 +118,29 @@ Texto común
       * Sub-item
         * Segundo sub-item
     * Segundo item
+~~~
 
 1. Lista ordenada
    1. Sub-item
    2. Segundo sub-item
 2. Cambio de número
 
+~~~
     1. Lista ordenada
       1. Sub-item
       2. Segundo sub-item
     2. Cambio de número
+~~~
 
 - [ ] Tarea incompleta
   - [ ] Sub-tarea
 - [X] Tarea completa
 
+~~~
     - [ ] Tarea incompleta
       - [ ] Sub-tarea
     - [X] Tarea completa
+~~~
 
 ### Código
 
