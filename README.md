@@ -3,8 +3,8 @@
 ***
 ### Índice
 
-1. [¿Qué es un archivo README?](#¿qué-es-un-archivo-readme?)
-2. [¿Qué debería contener un archivo README?](#¿qué-debería-contener-un-archivo-readme?)
+1. [¿Qué es un archivo README?](#¿qué-es-un-archivo-readme)
+2. [¿Qué debería contener un archivo README?](#¿qué-debería-contener-un-archivo-readme)
 3. [Introducción a Markdown](#introducción-a-markdown)
    1. [Títulos](#títulos)
    2. [Texto común](#texto-común)
