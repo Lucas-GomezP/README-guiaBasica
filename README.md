@@ -3,7 +3,21 @@
 ***
 ### Índice
 
-
+1. [¿Qué es un archivo README?](#¿qué-es-un-archivo-readme?)
+2. [¿Qué debería contener un archivo README?](#¿qué-debería-contener-un-archivo-readme?)
+3. [Introducción a Markdown](#introducción-a-markdown)
+   1. [Títulos](#títulos)
+   2. [Texto común](#texto-común)
+   3. [Texto en cursiva, negrita y tachado](#texto-en-cursiva-negrita-y-tachado)
+   4. [Links](#links)
+   5. [Imágenes](#imágenes)
+   6. [Hipervínculos](#hipervínculos)
+   7. [Listas](#listas)
+   8. [Código](#código)
+   9. [Tablas](#tablas)
+   10. [Linea horizontal](#linea-horizontal)
+4. [Plantilla README.md](#plantilla-readme.md)
+5. [Últimas aclaraciones y recomendaciones](#últimas-aclaraciones-y-recomendaciones)
 
 ***
 ## ¿Qué es un archivo README?
